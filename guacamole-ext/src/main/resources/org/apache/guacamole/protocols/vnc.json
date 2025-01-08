@@ -224,6 +224,10 @@
                     "name"    : "sftp-disable-upload",
                     "type"    : "BOOLEAN",
                     "options" : [ "true" ]
+                },
+                {
+                    "name"    : "sftp-attr-permissions",
+                    "type"    : "TEXT"
                 }
             ]
         },
